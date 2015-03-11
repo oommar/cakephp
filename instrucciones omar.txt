@@ -1,0 +1,6 @@
+1	incluir en htdocs o www
+2 	apache modules -> rewritte activar
+3	change a app/config/database.php
+4	configure user pass and database
+5	cambia errores o advertencias en app/config/core.php
+6 	route muestra de donde cargará la sintaxis
